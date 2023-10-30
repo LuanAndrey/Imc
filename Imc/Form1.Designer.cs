@@ -44,8 +44,8 @@
             this.txbPeso.Name = "txbPeso";
             this.txbPeso.Size = new System.Drawing.Size(100, 20);
             this.txbPeso.TabIndex = 0;
-            this.txbPeso.TextChanged += new System.EventHandler(this.txbAltura_TextChanged);
-            this.txbPeso.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txbAltura_KeyPress);
+            this.txbPeso.TextChanged += new System.EventHandler(this.txbPeso_TextChanged);
+            this.txbPeso.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txbPeso_KeyPress);
             // 
             // txbAltura
             // 
